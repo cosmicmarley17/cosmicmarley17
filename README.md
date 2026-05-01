@@ -16,4 +16,4 @@ I still come on here occasionally to contribute to projects hosted here.
 
 You can find me on Codeberg at [cosmicmarley17](https://codeberg.org/cosmicmarley17 "cosmicmarley17 on Codeberg.org").
 
-GitHub is a proprietary system controlled by Microsoft; I'd prefer to interact with a site with a more open and thoughtful community.
+GitHub is a proprietary system controlled by Microsoft; I'd prefer to interact with a site run by a more open and thoughtful group.
